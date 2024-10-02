@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Basic Therd'/>
+        <page name='Global Queue Does not use main Thread '/>
+        <page name='Quality of Services '/>
+        <page name='Custom Concurrent Queue Async'/>
+        <page name='Serial Queue sync'/>
+        <page name='Serial Queue Async'/>
+        <page name='Concurrent Queue Async'/>
+        <page name='Concurrent Queue sync'/>
+        <page name='Dispatch Group'/>
+        <page name='Dispatch Work'/>
+        <page name='Opration Queue '/>
+        <page name='Dispatch Group signup'/>
+        <page name='Untitled Page'/>
+    </pages>
+</playground>
